@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>765628533682-2ok61j7dqhmt8j2vrooq1u9aho4pgmm7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.765628533682-2ok61j7dqhmt8j2vrooq1u9aho4pgmm7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1Xo296vRuhqoMIuK6GDm5vM81uhSWEaM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>765628533682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Planning-poker-upreciate-ios</string>
+	<key>PROJECT_ID</key>
+	<string>planning-poker-mindsource</string>
+	<key>STORAGE_BUCKET</key>
+	<string>planning-poker-mindsource.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:765628533682:ios:908694eb6ee750867072ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://planning-poker-mindsource-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
