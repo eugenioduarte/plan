@@ -1,11 +1,5 @@
 import React, { useRef } from "react";
-import {
-  View,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  Pressable,
-} from "react-native";
+import { Text, TextInput, TouchableOpacity, Pressable } from "react-native";
 import { useI18n } from "@hooks";
 
 type EnterRoomContainerProps = {

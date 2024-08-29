@@ -35,7 +35,7 @@ export default function AverageCard({
     <View className="bg-secondary border-primary border-2 flex flex-row items-center justify-center mt-5">
       <StaticsCard value={average} isAverage={true} />
       <View className="h-full bg-primary w-0.5" />
-      <StaticsCard value={median} isAverage={false} />
+      {/* <StaticsCard value={median} isAverage={false} /> */}
     </View>
   );
 }
