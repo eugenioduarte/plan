@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "765628533682",
+    "firebase_url": "https://planning-poker-mindsource-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "planning-poker-mindsource",
+    "storage_bucket": "planning-poker-mindsource.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765628533682:android:1b8e6d939ffb64787072ab",
+        "android_client_info": {
+          "package_name": "Planning.poker.mind.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765628533682-idc5h78eoij8jdl95701q2gnf4beehq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7EHUV1ulyOVWuKzKZpAAbhWE6RuzBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765628533682-idc5h78eoij8jdl95701q2gnf4beehq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765628533682-2ok61j7dqhmt8j2vrooq1u9aho4pgmm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Planning-poker-upreciate-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
